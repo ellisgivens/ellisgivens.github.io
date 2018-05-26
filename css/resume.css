@@ -166,7 +166,7 @@ a:hover, a:focus, a:active {
   -moz-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background: rgba(254, 209, 54, 0.9);
+  background: rgba(33, 140, 239, 0.9);
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -210,7 +210,7 @@ a:hover, a:focus, a:active {
   font-size: 16px;
   font-style: italic;
   margin: 0;
-  font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', serif;
 }
 
 #portfolio * {
@@ -250,7 +250,7 @@ a:hover, a:focus, a:active {
   font-size: 16px;
   font-style: italic;
   margin: 20px 0 30px;
-  font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', serif;
 }
 
 .portfolio-modal .modal-content ul.list-inline {
