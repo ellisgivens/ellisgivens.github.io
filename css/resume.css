@@ -234,7 +234,7 @@ a:hover, a:focus, a:active {
 
 .portfolio-modal .modal-content {
   padding: 100px 0;
-  text-align: center;
+  text-align: left;
 }
 
 .portfolio-modal .modal-content h2 {
